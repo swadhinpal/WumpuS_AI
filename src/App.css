@@ -1,0 +1,14 @@
+body {
+    background-color: cornsilk;
+}
+
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    /* margin: 20px; */
+    box-shadow: inset;
+    border-bottom: 2px solid burlywood;
+    padding-bottom: 15px;
+}
